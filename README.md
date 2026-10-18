@@ -200,3 +200,6 @@ GSSS Institute of Engineering and Technology for Women, Mysuru
 
 GitHub: https://github.com/RANJANA14/Area-Hub-MERN
 
+## Application Screenshot
+
+![Area Hub Application Screenshot](images/area-hub.png)
